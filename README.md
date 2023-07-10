@@ -52,7 +52,7 @@ python dehaze.py
 
 ### Train MSF$^2$DN
 
-Train our MSF$^2$DN, before this, you should input the right path in the corresponding files, especially in the dataloader.py, and then run the following command:
+Train our MSF$^2$DN, before this, you should input the right path in the corresponding files. In the dataloader.py, you should configure the right name of picture and then run the following command:
 
 ```
 python train.py
