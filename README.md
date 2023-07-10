@@ -7,7 +7,7 @@ This is the official PyTorch codes for the paper.
 >**MSF$^2$DN: Mutil Scale Feature Fusion Dehazing Network with Dense Connection**<br> Guangfa Wang, Xiaokang Yu*  (* indicates corresponding author)<br>
 >The 16th Asian Conference on Computer Vision， ACCV2022
 
-<img src="E:\研三\ACCV相关文件\ACCV需要文件\LaTeX2e Proceedings Templates download\image\Network_Architecture\NA\NA_00.jpg" alt="NA_00" style="zoom:70%;" />
+<img src="./fig/NA_00.jpg" alt="NA_00" style="zoom:70%;" />
 
 
 
