@@ -13,7 +13,7 @@ This is the official PyTorch codes for the paper.
 
 ## Demo
 
-<img src="./fig/Input1.jpg" alt="Input1" style="zoom:70%;" /><img src="./fig/Ours1.jpg" alt="GRID1" style="zoom:70%;" />
+<img src="./fig/Input1.jpg" alt="Input1" style="zoom:50%;" /><img src="./fig/Ours1.jpg" alt="GRID1" style="zoom:50%;" />
 
 
 
