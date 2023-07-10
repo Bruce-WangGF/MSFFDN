@@ -13,7 +13,7 @@ This is the official PyTorch codes for the paper.
 
 ## Demo
 
-<img src="E:\研三\ACCV相关文件\ACCV需要文件\LaTeX2e Proceedings Templates download\image\real\Input1.jpg" alt="Input1" style="zoom:80%;" /><img src="E:\研三\ACCV相关文件\ACCV需要文件\LaTeX2e Proceedings Templates download\image\real\Ours1.jpg" alt="GRID1" style="zoom:80%;" />
+<img src="./fig/Input1.jpg" alt="Input1" style="zoom:80%;" /><img src="./fig/Ours1.jpg" alt="GRID1" style="zoom:80%;" />
 
 
 
